@@ -74,7 +74,7 @@ void sublink<T>::display() {
     int numOfNodes = 0;
     for(Node<T>*cur=head;cur;cur=cur->next){
         numOfNodes++;
-        cout << "node " << numOfNodes << " ->[";
+        cout << "\tNode " << numOfNodes << " ->[";
         for(int i=0;i<cur->size;i++) {
             cout << cur->data[i];
             if (i<cur->size-1)
@@ -89,7 +89,7 @@ void sublink<T>::display_reverse() {
     int numOfNodes = 0;
     for(Node<T>*cur=tail;cur;cur=cur->prev){
         numOfNodes++;
-        cout << "node " << numOfNodes << " ->[ ";
+        cout << "Node " << numOfNodes << " ->[ ";
         for(int i=0;i<4;i++)
             cout<<cur->data[i]<<" ";
         cout<<"]"<<endl;

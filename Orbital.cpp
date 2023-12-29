@@ -26,7 +26,8 @@ T Orbital<T>::pop() {
 
 template <typename T>
 void Orbital<T>::print() {
-    for (int i = 0; i < capacity; ++i) {
-        ss[i].display();
+    for (int i = 0; i < capacity; ++i) {  //node 1 ->[5 8]
+        cout<<"Orbital "<<i+1<<" ->{"<<endl;
+        ss[i].display();cout<<"}\n";
     }
 }

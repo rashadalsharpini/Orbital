@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/rashadalsharpini/Desktop/Clion/Orbital/cmake-build-debug",
-		"source" : "/home/rashadalsharpini/Desktop/Clion/Orbital"
+		"build" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital/cmake-build-debug",
+		"source" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital"
 	},
 	"version" : 
 	{

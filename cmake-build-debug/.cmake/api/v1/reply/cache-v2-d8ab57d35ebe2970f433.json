@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/Orbital/cmake-build-debug"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/Orbital/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/Orbital"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/Orbital/cmake-build-debug"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital/cmake-build-debug"
 		},
 		{
 			"name" : "Orbital_IS_TOP_LEVEL",
@@ -1175,7 +1175,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/rashadalsharpini/Desktop/Clion/Orbital"
+			"value" : "/home/rashadalsharpini/Desktop/Clion/DataStructure/Orbital"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
